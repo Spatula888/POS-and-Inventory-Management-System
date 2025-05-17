@@ -1,0 +1,12 @@
+How to run this:
+open command prompt and follow this steps:
+Setup virtual environment
+python -m venv venv
+activate virtual environment
+venv\Scripts\activate
+install dependencies
+pip install -r requirements.txt
+md
+python manage.py runserver
+username:admin
+pass:admin123
